@@ -1,0 +1,13 @@
+name: kaggle-pgjan22
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pytest
+  - conda-forge::optuna
+  - lightgbm
+prefix: C:\ProgramData\Anaconda3\envs\kaggle-pgjan22
