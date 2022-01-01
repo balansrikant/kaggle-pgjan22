@@ -1,6 +1,6 @@
 # Kaggle tabular playground series contest
 
-https://www.kaggle.com/c/tabular-playground-series-dec-2021
+https://www.kaggle.com/c/tabular-playground-series-jan-2022
 
 Kaggle competitions are incredibly fun and rewarding, but they can also be intimidating for people who are relatively new in their data science journey. In the past, we've launched many Playground competitions that are more approachable than our Featured competitions and thus, more beginner-friendly.
 
